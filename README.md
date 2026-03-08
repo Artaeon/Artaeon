@@ -57,77 +57,50 @@ I see technology as stewardship: building profitable, ethical, enduring systems 
 
 ---
 
-## Selected Work
+## Featured Projects
 
 <div align="center">
-<sub>Built to ship · Built to last · Built to be understood</sub>
+<sub>A concise view of the projects I consider the strongest expression of my current work.</sub>
 </div>
 
 ---
 
-<details open>
-<summary><strong>⚒ Forge — Multi-Agent Coding Orchestration</strong></summary>
-
-**Repo:** https://github.com/Artaeon/forge-ai  
-
-Multi-agent AI coding orchestrator unifying Claude Code, Gemini CLI, and GitHub Copilot into a single CLI workflow with structured aggregation.
-
-</details>
-
----
-
-<details>
-<summary><strong>🔒 OpenWhistle — Compliance for SMEs</strong></summary>
-
-**Repo:** https://github.com/Artaeon/openwhistle  
-
-Privacy-first, self-hosted whistleblowing platform for SMEs (EU 2019/1937 + HinSchG).
-
-</details>
+| Project | Focus |
+| --- | --- |
+| [Forge](https://github.com/Artaeon/forge-ai) | Multi-agent AI coding orchestrator that unifies Claude Code, Gemini CLI, and GitHub Copilot in one CLI workflow. |
+| [OpenWhistle](https://github.com/Artaeon/openwhistle) | Privacy-first whistleblowing platform for SMEs with EU Directive 2019/1937 and HinSchG alignment. |
+| [Granit](https://github.com/Artaeon/granit) | Terminal-native personal knowledge management system built in Go with Markdown and wikilink compatibility. |
+| [PRISM](https://github.com/Artaeon/prism) | Neural-free reasoning architecture built on Vector Symbolic Architectures for interpretable cognition. |
+| [HIE](https://github.com/Artaeon/hie) | Experimental cryptographic research framework for verifiable identity in high-dimensional vector spaces. |
+| [1300.io](https://github.com/Artaeon/1300io) | Open-source tooling for Austrian property safety inspections under ÖNORM B 1300. |
 
 ---
 
-<details>
-<summary><strong>🔷 PRISM — Neural-Free Reasoning (VSA)</strong></summary>
+## Open Source Projects
 
-**Repo:** https://github.com/Artaeon/prism  
-
-Interpretable reasoning using Vector Symbolic Architectures (VSA): symbolic memory + algebraic structure.
-
-</details>
+<div align="center">
+<sub>Complete public open source portfolio.</sub>
+</div>
 
 ---
 
-<details>
-<summary><strong>🧬 HIE — Identity Entanglement (Research)</strong></summary>
-
-**Repo:** https://github.com/Artaeon/hie  
-
-Experimental cryptographic framework embedding verifiable identity into high-dimensional vector spaces.
-
-</details>
-
----
-
-<details>
-<summary><strong>⚡ Raspyn — Network Protocol Implementation</strong></summary>
-
-**Repo:** https://github.com/Artaeon/raspyn  
-
-High-throughput, low-latency protocol implementation (C/CMake).
-
-</details>
-
----
-
-<details>
-<summary><strong>🏢 1300.io — ÖNORM B 1300 Safety Inspections</strong></summary>
-
-**Repo:** https://github.com/Artaeon/1300io  
-
-Open-source tooling for Austrian property safety inspections (ÖNORM B 1300).
-
-</details>
+| Project | Summary |
+| --- | --- |
+| [1300.io](https://github.com/Artaeon/1300io) | Mobile-first software for Austrian property safety inspections and compliance workflows. |
+| [CCE](https://github.com/Artaeon/cce) | Deterministic text composition engine for poetic and philosophical German writing. |
+| [EIGHT.ONE OS](https://github.com/Artaeon/eight-one-os) | Keyboard-driven Arch Linux distribution for developers with a preconfigured Hyprland environment. |
+| [Forge](https://github.com/Artaeon/forge-ai) | Multi-agent AI coding orchestration for autonomous build and development workflows. |
+| [Granit](https://github.com/Artaeon/granit) | Terminal-native personal knowledge management system with portable Markdown storage. |
+| [HIE](https://github.com/Artaeon/hie) | Experimental cryptographic identity framework based on high-dimensional vectors. |
+| [Longma](https://github.com/Artaeon/longma) | Terminal-based Mandarin learning application for German-speaking technical professionals. |
+| [Obsidian Theme Selah](https://github.com/Artaeon/obsidian-theme-selah) | Minimal iOS-inspired theme for Obsidian. |
+| [Omarchy Spectre Theme](https://github.com/Artaeon/omarchy-spectre-theme) | Theme package for Omarchy. |
+| [OpenWhistle](https://github.com/Artaeon/openwhistle) | Self-hosted whistleblower platform for SME compliance and secure reporting. |
+| [Polyglot CLI](https://github.com/Artaeon/polyglot-cli) | Offline-first multilingual learning system with SRS, drills, and terminal-native workflows. |
+| [Pose Flyweight Pattern Showcase](https://github.com/Artaeon/pose-flyweight-pattern-showcase) | Demonstration project for the flyweight pattern in an interactive mapping application. |
+| [PRISM](https://github.com/Artaeon/prism) | Neural-free cognitive architecture for reasoning with Vector Symbolic Architectures. |
+| [Raspyn](https://github.com/Artaeon/raspyn) | High-throughput network protocol implementation focused on efficient data transfer. |
+| [Trendradar](https://github.com/Artaeon/trendradar) | Local market radar that analyzes OpenStreetMap history to detect business movement and opportunity. |
 
 ---
 
@@ -172,5 +145,5 @@ I build with excellence, integrity, and responsibility — because systems shape
 ---
 
 <div align="center">
-<sub>Last updated: February 2026</sub>
+<sub>Last updated: March 2026</sub>
 </div>
